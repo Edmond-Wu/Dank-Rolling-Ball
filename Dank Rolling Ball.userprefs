@@ -1,11 +1,8 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace />
   <MonoDevelop.Ide.Workbench ActiveDocument="..\Interstellar Shooter\Assets\Scripts\Controller.cs">
     <Files>
-      <File FileName="..\Interstellar Shooter\Interstellar Shooter.sln" Line="1" Column="1" />
-      <File FileName="..\Interstellar Shooter\Assets\Scripts\Controller.cs" Line="1" Column="1" />
-      <File FileName="Assets\scripts\CameraController.cs" Line="1" Column="1" />
-      <File FileName="Assets\scripts\Rotator.cs" Line="1" Column="1" />
+      <File FileName="..\Interstellar Shooter\Assets\Scripts\Controller.cs" Line="20" Column="37" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
